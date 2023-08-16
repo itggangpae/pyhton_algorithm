@@ -1,14 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Sliding Window
 
-# ## 최대 슬라이딩 윈도우
-
-# In[2]:
-
-#local_create
-#Pull Request
 import collections
 
 def maxSlidingWindow(nums, k):
