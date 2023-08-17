@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-
+#브랜치 연습
 import collections
 
 def maxSlidingWindow(nums, k):
