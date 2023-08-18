@@ -1,3 +1,4 @@
+#강제로 수정
 '''
 #괄호 Shift
 def isCorrect(s):
